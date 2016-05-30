@@ -29,8 +29,6 @@ export default {
     'title': 'Slide 3'
   }
 ];
-
-    console.log('api', data);
     AppActions.initLoad(data);
   }
 
