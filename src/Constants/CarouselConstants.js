@@ -1,0 +1,8 @@
+var AppConstants = {
+	GET_SLIDES_DATA: 'GET_SLIDES_DATA',
+	CLICK_NEXT: 'CLICK_NEXT',
+	CLICK_PREV: 'CLICK_PREV',
+	TOGGLE_SLIDE: 'TOGGLE_SLIDE'
+}
+
+export default AppConstants;
